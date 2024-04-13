@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://monkins1010.github.io/sitemap.xml.gz
+Sitemap: https://imylomylo.github.io/new-verus-docs/sitemap.xml.gz
